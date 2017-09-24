@@ -40,5 +40,6 @@ data = {
 	'image': 'downlaod_img'
 }
 
+#writting json file
 json_data = json.dumps(data)
 
